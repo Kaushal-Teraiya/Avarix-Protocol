@@ -9,7 +9,7 @@ I am submitting this for the **Unity × Google Play Game Dev Training Program** 
 
 ## 🎮 About the Project
 
-**1v1 Arena** is a **multiplayer FPS** game with both 1v1 and team-based matches (up to 4v4).  
+**1v1 Arena/Avarix protocol** is a **multiplayer FPS** game with both 1v1 and team-based matches (up to 4v4).  
 Currently in **beta testing for PC**, with plans to release on **Android** in the future.  
 
 Key features include:
