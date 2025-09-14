@@ -1,7 +1,7 @@
-# 1v1 Arena/Avarix-Protocol - Game Programmer Portfolio
+# pvp Arena/Avarix-Protocol - Game Programmer Portfolio
 
 Hi! 👋  i'm Kaushal Teraiya , This is my work of 9 months of self learning and dedication.
-This repository contains the **core scripts** for my Unity multiplayer FPS project **"1v1 Arena"**.  
+This repository contains the **core scripts** for my Unity multiplayer FPS project **"pvp Arena"**.  
 
 I am submitting this for the **Unity × Google Play Game Dev Training Program** as part of my Game Programmer portfolio.
 
@@ -49,7 +49,7 @@ Key features include:
 This repository contains **scripts only**, which implement all the gameplay, AI, networking, and UI logic.  
 To run the full game, the **scenes, assets, and server setup** are required.  
 
-1v1 Arena/
+pvp Arena/
 │
 ├─ _Scripts/ # C# scripts for gameplay, AI, weapons, UI, networking, and Firebase integration
 ├─ Packages/ # Unity package manifest files (dependencies)
