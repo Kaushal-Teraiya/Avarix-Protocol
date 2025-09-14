@@ -1,7 +1,7 @@
-# pvp Arena/Avarix-Protocol - Game Programmer Portfolio
+# PvP Arena/Avarix-Protocol - Game Programmer Portfolio
 
 Hi! 👋  i'm Kaushal Teraiya , This is my work of 9 months of self learning and dedication.
-This repository contains the **core scripts** for my Unity multiplayer FPS project **"pvp Arena"**.  
+This repository contains the **core scripts** for my Unity multiplayer FPS project **"PvP Arena"**.  
 
 I am submitting this for the **Unity × Google Play Game Dev Training Program** as part of my Game Programmer portfolio.
 
@@ -9,7 +9,7 @@ I am submitting this for the **Unity × Google Play Game Dev Training Program** 
 
 ## 🎮 About the Project
 
-**1v1 Arena/Avarix protocol** is a **multiplayer FPS** game with both 1v1 and team-based matches (up to 4v4).  
+**PvP Arena/Avarix protocol** is a **multiplayer FPS** game with both 1v1 and team-based matches (up to 4v4).  
 Currently in **beta testing for PC**, with plans to release on **Android** in the future.  
 
 Key features include:
@@ -49,7 +49,7 @@ Key features include:
 This repository contains **scripts only**, which implement all the gameplay, AI, networking, and UI logic.  
 To run the full game, the **scenes, assets, and server setup** are required.  
 
-pvp Arena/
+PvP Arena/
 │
 ├─ _Scripts/ # C# scripts for gameplay, AI, weapons, UI, networking, and Firebase integration
 ├─ Packages/ # Unity package manifest files (dependencies)
