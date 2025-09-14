@@ -85,7 +85,7 @@ You can see how I implemented:
 - AI state machine for bots  
 - UI, match scoring, timers, and win conditions  
 
-GitHub repo link: [1v1 Arena Scripts](YOUR_GITHUB_REPO_LINK)
+GitHub repo link: [1v1 Arena Scripts](https://github.com/Kaushal-Teraiya/Avarix-Protocol/tree/main)
 
 ---
 
