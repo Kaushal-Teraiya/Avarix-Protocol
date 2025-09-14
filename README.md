@@ -103,4 +103,4 @@ I am applying to the **Unity × Google Play Game Dev Training Program** to refin
 ---
 
 Thank you for checking out my work!  
-Feel free to reach out on LinkedIn: [YOUR_LINKEDIN_PROFILE]
+Feel free to reach out on LinkedIn: [LINKEDIN_PROFILE](https://www.linkedin.com/in/kaushal-teraiya-875596384/)]
