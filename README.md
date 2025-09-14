@@ -1,6 +1,6 @@
-# 1v1 Arena - Game Programmer Portfolio
+# 1v1 Arena/Avarix-Protocol - Game Programmer Portfolio
 
-Hi! 👋  
+Hi! 👋  i'm Kaushal Teraiya
 This repository contains the **core scripts** for my Unity multiplayer FPS project **"1v1 Arena"**.  
 
 I am submitting this for the **Unity × Google Play Game Dev Training Program** as part of my Game Programmer portfolio.
@@ -21,6 +21,7 @@ Key features include:
 - Match mechanics: timer, score tracking, respawn, kill/death tracking, networked scoreboard, and winning conditions  
 - Multiplayer support via **LAN or network (VPS server in progress)**  
 - **Private rooms**, matchmaking in progress  
+- **Firebase integration:** login/signup system, one-device-at-a-time session check, server-side rewards, and saving player progress securely  
 
 > Developing this multiplayer project was a challenge, as syncing changes between clients and host requires double the work compared to a single-player game.  
 
@@ -50,10 +51,9 @@ To run the full game, the **scenes, assets, and server setup** are required.
 
 1v1 Arena/
 │
-├─ _Scripts/ # C# scripts for gameplay, AI, weapons, UI, and networking
+├─ _Scripts/ # C# scripts for gameplay, AI, weapons, UI, networking, and Firebase integration
 ├─ Packages/ # Unity package manifest files (dependencies)
 └─ ProjectSettings/ # Core Unity project settings (input, graphics, physics)
-
 
 
 **Assets used:**
@@ -84,8 +84,9 @@ You can see how I implemented:
 - Multiplayer sync logic and client-host interactions  
 - AI state machine for bots  
 - UI, match scoring, timers, and win conditions  
+- **Firebase login/signup and secure server-side reward system**  
 
-GitHub repo link: [1v1 Arena Scripts](https://github.com/Kaushal-Teraiya/Avarix-Protocol/tree/main)
+GitHub repo link: [1v1 Arena Scripts]()
 
 ---
 
