@@ -86,7 +86,7 @@ You can see how I implemented:
 - UI, match scoring, timers, and win conditions  
 - **Firebase login/signup and secure server-side reward system**  
 
-GitHub repo link: [1v1 Arena Scripts]()
+GitHub repo link: [1v1 Arena Scripts](https://github.com/Kaushal-Teraiya/Avarix-Protocol)
 
 ---
 
