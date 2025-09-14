@@ -1,6 +1,6 @@
 # 1v1 Arena/Avarix-Protocol - Game Programmer Portfolio
 
-Hi! 👋  i'm Kaushal Teraiya
+Hi! 👋  i'm Kaushal Teraiya , This is my work of 9 months of self learning and dedication.
 This repository contains the **core scripts** for my Unity multiplayer FPS project **"1v1 Arena"**.  
 
 I am submitting this for the **Unity × Google Play Game Dev Training Program** as part of my Game Programmer portfolio.
