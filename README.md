@@ -1,5 +1,10 @@
 # PvP Arena/Blitzone-Warfare - Game Programmer Portfolio
 
+Watch the video here: [Portfolio game demo on YouTube](https://youtu.be/9sCAUyiXATg?si=nLa7sp9CUbbPbNDO)
+
+visit my LinkedIn
+[LINKEDIN_PROFILE](https://www.linkedin.com/in/kaushal-teraiya-875596384/)]
+
 Hi! 👋  i'm Kaushal Teraiya , This is my work of 9 months of self learning and dedication.
 This repository contains the **core scripts** for my Unity multiplayer FPS project **"PvP Arena"**.  
 
@@ -71,8 +76,8 @@ I have prepared a **demo video** showing:
 - Project structure and workflow  
 - Key features and multiplayer functionality  
 
-Watch the video here: [Portfolio game demo on YouTube](https://youtu.be/9sCAUyiXATg?si=nLa7sp9CUbbPbNDO)
 
+Watch the video here: [Portfolio game demo on YouTube](https://youtu.be/9sCAUyiXATg?si=nLa7sp9CUbbPbNDO)
 ---
 
 ## 💻 Check the Code
