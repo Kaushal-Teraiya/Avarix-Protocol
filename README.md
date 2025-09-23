@@ -41,7 +41,7 @@ Key features include:
 | Dreyar ⚔   | Shield (by Gabriel Aguiar) | ✅ Done |
 | Vampire 🦇 | Ground Slam (Devastating impact) | ✅ Basic done, VFX/animations remaining |
 | Knight ⚔  | Reflective Shield (Protect and damage) | ✅ Done |
-| Knight ⚔  | Instant-Kill Sword Slash | ❌ Abandoned due to time limitations |
+| AI Bot 🤖 | CTF AI: Survival, Combat, Strategic & Flag Handling brains | ✅ Done |
 
 > **AI Scripts Highlight:**  
 > The AI system is modular and sophisticated, with **Survival, Combat, Strategic, and Flag Handling brains**.  
@@ -50,7 +50,7 @@ Key features include:
 
 > **Tip:** If Unity pauses the game when logging errors, turn off "Error Pause" in the console—it’s not a bug.  
 
----
+--- 
 
 ## 🔧 Project Setup
 
