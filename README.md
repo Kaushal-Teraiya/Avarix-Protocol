@@ -71,7 +71,7 @@ I have prepared a **demo video** showing:
 - Project structure and workflow  
 - Key features and multiplayer functionality  
 
-Watch the video here: [LinkedIn Demo Video](YOUR_LINKEDIN_VIDEO_LINK)
+Watch the video here: [Portfolio game demo on YouTube](https://youtu.be/9sCAUyiXATg?si=nLa7sp9CUbbPbNDO)
 
 ---
 
