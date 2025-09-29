@@ -82,6 +82,7 @@ Watch the video here: [Portfolio game demo on YouTube](https://youtu.be/9sCAUyiX
 
 ---
 
+
 ## 💻 Check the Code
 
 All scripts are available in the `_Scripts` folder.  
@@ -93,4 +94,21 @@ You can see how I implemented:
 - UI, match scoring, timers, and win conditions  
 - **Firebase login/signup and secure server-side reward system**  
 
-GitHub repo link: [1v
+GitHub repo link: [1v1 Arena Scripts](https://github.com/Kaushal-Teraiya/Avarix-Protocol)  
+
+---
+
+## ✨ About Me
+
+I am a passionate **Game Developer** focused on:
+
+- **Game Programming:** FPS, multiplayer, AI, mechanics  
+- **Graphics & Physics:** Realistic simulations and VFX  
+- Mastering **Unity and C#**  
+
+I am applying to the **Unity × Google Play Game Dev Training Program** to refine my skills and contribute to exciting projects.  
+
+---
+
+Thank you for checking out my work!  
+Feel free to reach out on LinkedIn: [LINKEDIN_PROFILE](https://www.linkedin.com/in/kaushal-teraiya-875596384/)  
