@@ -6,7 +6,7 @@ Visit my LinkedIn:
 [LINKEDIN_PROFILE](https://www.linkedin.com/in/kaushal-teraiya-875596384/)
 
 Hi! 👋  I'm Kaushal Teraiya. This project represents **9 months of self-learning and dedication**.  
-This repository contains the **core scripts** for my Unity multiplayer FPS project **"PvP Arena"**, submitted for the **Unity × Google Play Game Dev Training Program** as part of my Game Programmer portfolio.
+This repository contains the **core scripts** for my Unity multiplayer FPS project **"Blitzone Warfare"**, submitted for the **Unity × Google Play Game Dev Training Program** as part of my Game Programmer portfolio.
 
 ---
 
